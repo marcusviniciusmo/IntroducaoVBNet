@@ -1,0 +1,11 @@
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\bin\Debug\Introducao VBNet.exe.config
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\bin\Debug\Introducao VBNet.exe
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\bin\Debug\Introducao VBNet.pdb
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\bin\Debug\Introducao VBNet.xml
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao VBNet.vbprojAssemblyReference.cache
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao_VBNet.Form1.resources
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao_VBNet.Resources.resources
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao VBNet.vbproj.GenerateResource.cache
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao VBNet.exe
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao VBNet.xml
+D:\Marcus\Projetos[ARRUMAR]\Introducao VBNet\Introducao VBNet\obj\Debug\Introducao VBNet.pdb

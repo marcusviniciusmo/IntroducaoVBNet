@@ -1,0 +1,16 @@
+============= ALTERAR BOTÃO MAXIMIZAR / MINIMIZAR ==============
+
+set true / false:
+- propriedade MaximizeBox;
+- propriedade MinimizeBox;
+
+============= ALTERAR BOTÃO FECHAR (X) ==============
+
+set true / false:
+- propriedade ControlBox;
+Obs.: caso o ControlBox esteja setado como false, os botões maximizar e minimizar estarão como false.
+
+============= ALTERAR BORDAS DO FORM ==============
+
+set:
+- propriedade FormBorderStyle
